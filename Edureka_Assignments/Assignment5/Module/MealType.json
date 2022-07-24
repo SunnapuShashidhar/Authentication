@@ -1,0 +1,37 @@
+[
+  {
+    "_id":1,
+    "name":"breakfast",
+    "content":"start your day with our special menu",
+    "image":"./assets/breakfast.png",
+    "type":1
+  },
+  {
+    "_id":2,
+    "name":"lunch",
+    "content":"make your day with our perfect lunch",
+    "image":"./assets/lunch.png",
+    "type":2
+  },
+  {
+    "_id":3,
+    "name":"dinner",
+    "content":"End your day with memorable dineer",
+    "image":"./assets/dinner.png",
+    "type":3
+  },
+  {
+    "_id":4,
+    "name":"Snacks",
+    "content":"let's have some fun a good snacks",
+    "image":"./assets/dinner.png",
+    "type":4
+  },
+  {
+    "_id":5,
+    "name":"Drinks",
+    "content":"just chill with amazing drings",
+    "image":"./assets/dinner.png",
+    "type":5
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "_id":1,
+    "name":"Krishna",
+    "address":"5-1-6 Manikbanda, 505325 ",
+    "city":"Nizambad",
+    "country":"India",
+    "city_id":3
+  },
+  {
+    "_id":2,
+    "name":"Domino's",
+    "address":"7-1/a Rudragiri, 505472 ",
+    "city":"Hyderabad",
+    "country":"India",
+    "city_id":1
+  },
+  {
+    "_id":3,
+    "name":"KFC",
+    "address":"4-1/b Manikbanda, 505472 ",
+    "city":"Hyderabad",
+    "country":"India",
+    "city_id":1
+  }
+]

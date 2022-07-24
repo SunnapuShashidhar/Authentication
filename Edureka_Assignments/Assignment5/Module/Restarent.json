@@ -1,0 +1,69 @@
+[
+  {
+    "thumb":[
+      "./assets/breakfast.png",
+      "./assets/lunch.png"
+    ],
+    "_id":1,
+    "name":"Krishna",
+    "address":"5-1-6 Manikbanda, 505325 ",
+    "city":"Nizambad",
+    "country":"India",
+    "content":"make this day special with our menu",
+    "image":"./assets/krishna.png",
+    "cuisine_id":2,
+    "type":[
+      1,
+      2
+    ],
+    "city_id":3,
+    "min_prize":450,
+    "rating":"5 star",
+    "mealType_id":1
+  },
+  {
+    "thumb":[
+      "./assets/breakfast.png",
+      "./assets/dinner.png"
+    ],    
+    "_id":2,
+    "name":"Domino's",
+    "address":"7-1/a Rudragiri, 505472 ",
+    "city":"Hyderabad",
+    "country":"India",
+    "content":"Have a good day",
+    "image":"./assets/dominos.png",
+    "cuisine_id":1,
+    "type":[
+      1,
+      3
+    ],
+    "city_id":1,
+    "min_prize":650,
+    "rating":"4star",
+    "mealType_id":2
+  },  
+  {
+    "thumb":[
+      "./assets/lunch.png",
+      "./assets/dinner.png"
+    ],    
+    "_id":3,
+    "name":"Domino's",
+    "address":"7-1/a Rudragiri, 505472 ",
+    "city":"Hyderabad",
+    "country":"India",
+    "content":"Have a good day",
+    "image":"./assets/dominos.png",
+    "cuisine_id":2,
+    "type":[
+      2,
+      4,
+      5
+    ],
+    "city_id":1,
+    "min_prize":350,
+    "rating":"6 star",
+    "mealType_id":2
+  }
+]
